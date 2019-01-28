@@ -15,7 +15,7 @@ episodes.
 
 ![alt text](https://github.com/MSopranoInTech/Navigation-using-Deep-Q-Learning/blob/master/banana_env2.png)
 
-I used a Deep Q network with the following values of hyperparameters: eps_start=1.0, eps_end=0.01, eps_decay=0.995, gamma(discount factor) = 0.99, max_t (maximum time steps per episode) =1000
+I used a Deep Q network with the following values of hyperparameters: eps_start=1.0, eps_end=0.01, eps_decay=0.995, gamma(discount factor) = 0.99, max_t (maximum time steps per episode) =1000. The 3 layer neural network was used with 3 fully connected layers having 64 neurons each.
 
 Episode 100	Average Score: 1.07 <br>
 Episode 200	Average Score: 4.26 <br>
