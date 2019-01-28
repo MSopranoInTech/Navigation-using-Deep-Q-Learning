@@ -10,7 +10,7 @@ to collect as many yellow bananas as possible while avoiding blue bananas. The s
 2 - turn left. <br>
 3 - turn right. <br>
 
-The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive
+The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive
 episodes.
 
 ![alt text](https://github.com/MSopranoInTech/Navigation-using-Deep-Q-Learning/blob/master/banana_env2.png)
