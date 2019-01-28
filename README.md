@@ -15,7 +15,7 @@ episodes.
 
 ![alt text](https://github.com/MSopranoInTech/Navigation-using-Deep-Q-Learning/blob/master/banana_env2.png)
 
-I used a Deep Q network with the following values of hyperparameters: eps_start=1.0, eps_decay=0.995, gamma(discount factor) = 0.99
+I used a Deep Q network with the following values of hyperparameters: eps_start=1.0, eps_end=0.01, eps_decay=0.995, gamma(discount factor) = 0.99, max_t (maximum time steps per episode) =1000
 
 Episode 100	Average Score: 1.07 <br>
 Episode 200	Average Score: 4.26 <br>
@@ -26,3 +26,7 @@ Episode 566	Average Score: 13.00 <br>
 Environment solved in 466 episodes!	Average Score: 13.00 <br>
 
 ![alt text](https://github.com/MSopranoInTech/Navigation-using-Deep-Q-Learning/blob/master/results.png)
+
+# Additional ideas to consider in the future
+1. Prioritized Experience Replay
+2. Learning from Pixels
