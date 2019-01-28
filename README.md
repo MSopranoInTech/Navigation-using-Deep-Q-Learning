@@ -13,7 +13,7 @@ to collect as many yellow bananas as possible while avoiding blue bananas. The s
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive
 episodes.
 
-![alt text](https://github.com/MSopranoInTech/Navigation-using-Deep-Q-Learning/blob/master/banana_env.png)
+![alt text](https://github.com/MSopranoInTech/Navigation-using-Deep-Q-Learning/blob/master/banana_env2.png)
 
 I used a Deep Q network with the following values of hyperparameters:
 
