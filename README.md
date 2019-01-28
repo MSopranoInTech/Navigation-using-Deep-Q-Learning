@@ -15,8 +15,7 @@ episodes.
 
 ![alt text](https://github.com/MSopranoInTech/Navigation-using-Deep-Q-Learning/blob/master/banana_env2.png)
 
-I used a Deep Q network with the following values of hyperparameters:
-
+I used a Deep Q network with the following values of hyperparameters: eps_start=1.0, eps_decay=0.995, gamma(discount factor) = 0.99
 
 Episode 100	Average Score: 1.07 <br>
 Episode 200	Average Score: 4.26 <br>
